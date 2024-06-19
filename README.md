@@ -1,6 +1,3 @@
 # testrepo
 
-
-check
-
-check
+Submission of IBM Data Analytics files.
